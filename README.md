@@ -1,3 +1,3 @@
 # Botnet
 
-A botnet compirised of God Process, Command and Control Server, and Bots.
+A botnet compirised of God Process, Bot Master, Command and Control Server, and Bots.
